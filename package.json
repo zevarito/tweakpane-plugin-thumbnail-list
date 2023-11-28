@@ -2,7 +2,7 @@
   "name": "@kitschpatrol/tweakpane-plugin-thumbnail-list",
   "version": "1.0.0",
   "description": "Tweakpane 4 plugin for image thumbnail selection",
-  "main": "dist/tweakpane-plugin-thumbnail-list.js",
+  "main": "dist/kitschpatrol-tweakpane-plugin-thumbnail-list.js",
   "type" : "module",
   "types" : "dist/types/index.d.ts",
   "author": "Don McCurdy <dm@donmccurdy.com>",
