@@ -75,7 +75,7 @@ export const TweakpaneThumbnailListPlugin: InputBindingPlugin<
 		 */
 		writer(_args) {
 			return (target: BindingTarget, inValue) => {
-				target.write(inValue);
+				target.write(inValue.value);
 			};
 		},
 	},
