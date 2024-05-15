@@ -1,4 +1,4 @@
-# `@kitschpatrol/tweakpane-plugin-thumbnail-list`
+# @kitschpatrol/tweakpane-plugin-thumbnail-list
 
 ## Overview
 
