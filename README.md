@@ -1,5 +1,7 @@
 # @kitschpatrol/tweakpane-plugin-thumbnail-list
 
+[![NPM Package @kitschpatrol/tweakpane-plugin-thumbnail-list](https://img.shields.io/npm/v/@kitschpatrol/tweakpane-plugin-thumbnail-list.svg)](https://npmjs.com/package/@kitschpatrol/tweakpane-plugin-thumbnail-list)
+
 ## Overview
 
 **This is a fork of [tweakpane-plugin-thumbnail-list](https://github.com/donmccurdy/tweakpane-plugin-thumbnail-list) with Tweakpane 4.0 compatibility and externalized dependencies.**
