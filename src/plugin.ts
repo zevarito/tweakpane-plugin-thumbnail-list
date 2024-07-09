@@ -7,7 +7,7 @@ import {
 	parseRecord,
 } from '@tweakpane/core';
 
-import {PluginController, Thumbnail} from './controller.js';
+import {PluginController, Thumbnail} from './controller';
 
 interface PluginInputParams extends BaseInputParams {
 	view: 'thumbnail-list';

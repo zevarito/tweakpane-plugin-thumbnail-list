@@ -1,6 +1,6 @@
 import {Controller, Value, ViewProps} from '@tweakpane/core';
 
-import {PluginView} from './view.js';
+import {PluginView} from './view';
 
 interface Config {
 	value: Value<Thumbnail | null>;

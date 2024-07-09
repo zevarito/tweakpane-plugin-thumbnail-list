@@ -1,6 +1,6 @@
 import type {TpPlugin} from 'tweakpane';
 
-import {TweakpaneThumbnailListPlugin} from './plugin.js';
+import {TweakpaneThumbnailListPlugin} from './plugin';
 
 export const id = 'textarea';
 
